@@ -1,0 +1,41 @@
+department
+-
+dept_no PK varchar
+dept_name text
+
+employees
+-
+emp_no PK int
+birth_date varchar
+first_name text
+last_name text
+gender text
+hire_date varchar
+
+salaries
+-
+emp_no int FK - employees.emp_no
+salary int
+from_date varchar
+to_date varchar
+
+titles
+-
+emp_no int FK - employees.emp_no
+title text
+from_date varchar
+to_date varchar
+
+dept_emp
+-
+emp_no int FK - employees.emp_no
+dept_no text FK >- department.dept_no
+from_date varchar
+to_date varchar
+
+dept_manager
+-
+dept_no varchar FK >- department.dept_no
+emp_no int FK - employees.emp_no
+from_date varchar
+to_date varchar
