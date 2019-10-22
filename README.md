@@ -184,14 +184,14 @@ Salary Barchart, organized from highest to lowest salary.
 Salary Range Histograms from each job title.  Notice the irregularity in most of the histograms, indicating possible falsehood of of the original CSVs.
 ![](Assistant_Engineer_Histogram.png)
 
-![](Engineer_Histogram.png)
+![](DataPlotsOutput/Engineer_Histogram.png)
 
-![](Manager_Histogram.png)
+![](DataPlotsOutput/Manager_Histogram.png)
 
-![](Senior_Engineer_Histogram.png)
+![](DataPlotsOutput/Senior_Engineer_Histogram.png)
 
-![](Senior_Staff_Histogram.png)
+![](DataPlotsOutput/Senior_Staff_Histogram.png)
 
-![](Staff_Histogram.png)
+![](DataPlotsOutput/Staff_Histogram.png)
 
-![](nique_Leader_Histogram.png)
+![](DataPlotsOutput/Technique_Leader_Histogram.png)
