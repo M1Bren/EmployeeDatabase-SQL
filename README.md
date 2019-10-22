@@ -181,7 +181,7 @@ Visualize the data by
 Salary Barchart, organized from highest to lowest salary.
 ![](Salary_Barchart.png)
 
-Salary Range Histograms from each job title.  Notice the irregularity in most of the histograms, indicating possible falsehood of of the original CSVs.
+Salary Range Histograms from each job title.  Notice that an irregularly high number of salaries are around $40,000, suggesting possible falsehood of of the original CSVs.
 ![](Assistant_Engineer_Histogram.png)
 
 ![](DataPlotsOutput/Engineer_Histogram.png)
